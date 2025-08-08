@@ -1,2 +1,2 @@
 # kratos-case
-kratos案例
+kratos模拟案例
